@@ -6,6 +6,10 @@ Uma biblioteca para buscar o endereço via cep
 
 Para usar está biblioteca basta seguir os exemplos abaixo:
 
+```Shell
+$ composer require sandro/php-search-address
+```
+
 ```php
 <?php
 
